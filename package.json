@@ -1,0 +1,7 @@
+{
+  "name": "agrolink-scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "crawlee": "^3.6.0"
+  }
+}
