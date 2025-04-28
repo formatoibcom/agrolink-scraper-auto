@@ -1,7 +1,8 @@
 {
-  "name": "agrolink-scraper",
+  "name": "agrolink-scraper-api",
   "version": "1.0.0",
   "dependencies": {
-    "crawlee": "^3.6.0"
+    "axios": "^1.6.5",
+    "cheerio": "^1.0.0-rc.12"
   }
 }
