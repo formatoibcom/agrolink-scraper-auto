@@ -3,12 +3,1016 @@
     "unidade": "Saca 60Kg",
     "dados": [
       {
-        "mesAno": "Mar/2025",
-        "mediaNacional": 89.45
+        "mesAno": "4/2025",
+        "mediaNacional": 70.4414
       },
       {
-        "mesAno": "Abr/2025",
-        "mediaNacional": 87.30
+        "mesAno": "3/2025",
+        "mediaNacional": 70.2302
+      },
+      {
+        "mesAno": "2/2025",
+        "mediaNacional": 65.7388
+      },
+      {
+        "mesAno": "1/2025",
+        "mediaNacional": 64.2599
+      },
+      {
+        "mesAno": "12/2024",
+        "mediaNacional": 64.4054
+      },
+      {
+        "mesAno": "11/2024",
+        "mediaNacional": 63.9231
+      },
+      {
+        "mesAno": "10/2024",
+        "mediaNacional": 58.8494
+      },
+      {
+        "mesAno": "9/2024",
+        "mediaNacional": 54.575
+      },
+      {
+        "mesAno": "8/2024",
+        "mediaNacional": 52.6634
+      },
+      {
+        "mesAno": "7/2024",
+        "mediaNacional": 51.438
+      },
+      {
+        "mesAno": "6/2024",
+        "mediaNacional": 52.5458
+      },
+      {
+        "mesAno": "5/2024",
+        "mediaNacional": 52.4263
+      },
+      {
+        "mesAno": "4/2024",
+        "mediaNacional": 51.9195
+      },
+      {
+        "mesAno": "3/2024",
+        "mediaNacional": 52.2548
+      },
+      {
+        "mesAno": "2/2024",
+        "mediaNacional": 53.6953
+      },
+      {
+        "mesAno": "1/2024",
+        "mediaNacional": 57.7398
+      },
+      {
+        "mesAno": "12/2023",
+        "mediaNacional": 56.4685
+      },
+      {
+        "mesAno": "11/2023",
+        "mediaNacional": 50.2974
+      },
+      {
+        "mesAno": "10/2023",
+        "mediaNacional": 48.1146
+      },
+      {
+        "mesAno": "9/2023",
+        "mediaNacional": 47.732
+      },
+      {
+        "mesAno": "8/2023",
+        "mediaNacional": 47.3019
+      },
+      {
+        "mesAno": "7/2023",
+        "mediaNacional": 47.8528
+      },
+      {
+        "mesAno": "6/2023",
+        "mediaNacional": 48.9555
+      },
+      {
+        "mesAno": "5/2023",
+        "mediaNacional": 54.8718
+      },
+      {
+        "mesAno": "4/2023",
+        "mediaNacional": 67.8892
+      },
+      {
+        "mesAno": "3/2023",
+        "mediaNacional": 74.7812
+      },
+      {
+        "mesAno": "2/2023",
+        "mediaNacional": 76.9355
+      },
+      {
+        "mesAno": "1/2023",
+        "mediaNacional": 78.2239
+      },
+      {
+        "mesAno": "12/2022",
+        "mediaNacional": 77.3115
+      },
+      {
+        "mesAno": "11/2022",
+        "mediaNacional": 78.214
+      },
+      {
+        "mesAno": "10/2022",
+        "mediaNacional": 77.9566
+      },
+      {
+        "mesAno": "9/2022",
+        "mediaNacional": 78.1342
+      },
+      {
+        "mesAno": "8/2022",
+        "mediaNacional": 76.63
+      },
+      {
+        "mesAno": "7/2022",
+        "mediaNacional": 76.4775
+      },
+      {
+        "mesAno": "6/2022",
+        "mediaNacional": 79.7446
+      },
+      {
+        "mesAno": "5/2022",
+        "mediaNacional": 81.656
+      },
+      {
+        "mesAno": "4/2022",
+        "mediaNacional": 82.1676
+      },
+      {
+        "mesAno": "3/2022",
+        "mediaNacional": 89.6562
+      },
+      {
+        "mesAno": "2/2022",
+        "mediaNacional": 89.4574
+      },
+      {
+        "mesAno": "1/2022",
+        "mediaNacional": 86.186
+      },
+      {
+        "mesAno": "12/2021",
+        "mediaNacional": 79.5058
+      },
+      {
+        "mesAno": "11/2021",
+        "mediaNacional": 79.5924
+      },
+      {
+        "mesAno": "10/2021",
+        "mediaNacional": 83.04
+      },
+      {
+        "mesAno": "9/2021",
+        "mediaNacional": 85.3425
+      },
+      {
+        "mesAno": "8/2021",
+        "mediaNacional": 89.089
+      },
+      {
+        "mesAno": "7/2021",
+        "mediaNacional": 83.7149
+      },
+      {
+        "mesAno": "6/2021",
+        "mediaNacional": 82.3523
+      },
+      {
+        "mesAno": "5/2021",
+        "mediaNacional": 88.8299
+      },
+      {
+        "mesAno": "4/2021",
+        "mediaNacional": 82.6983
+      },
+      {
+        "mesAno": "3/2021",
+        "mediaNacional": 76.678
+      },
+      {
+        "mesAno": "2/2021",
+        "mediaNacional": 75.2972
+      },
+      {
+        "mesAno": "1/2021",
+        "mediaNacional": 72.5824
+      },
+      {
+        "mesAno": "12/2020",
+        "mediaNacional": 69.206
+      },
+      {
+        "mesAno": "11/2020",
+        "mediaNacional": 72.0206
+      },
+      {
+        "mesAno": "10/2020",
+        "mediaNacional": 60.4194
+      },
+      {
+        "mesAno": "9/2020",
+        "mediaNacional": 51.5842
+      },
+      {
+        "mesAno": "8/2020",
+        "mediaNacional": 45.8405
+      },
+      {
+        "mesAno": "7/2020",
+        "mediaNacional": 41.9979
+      },
+      {
+        "mesAno": "6/2020",
+        "mediaNacional": 41.3377
+      },
+      {
+        "mesAno": "5/2020",
+        "mediaNacional": 42.6298
+      },
+      {
+        "mesAno": "4/2020",
+        "mediaNacional": 44.7209
+      },
+      {
+        "mesAno": "3/2020",
+        "mediaNacional": 44.5471
+      },
+      {
+        "mesAno": "2/2020",
+        "mediaNacional": 43.1399
+      },
+      {
+        "mesAno": "1/2020",
+        "mediaNacional": 40.2439
+      },
+      {
+        "mesAno": "12/2019",
+        "mediaNacional": 37.3426
+      },
+      {
+        "mesAno": "11/2019",
+        "mediaNacional": 34.7516
+      },
+      {
+        "mesAno": "10/2019",
+        "mediaNacional": 32.7125
+      },
+      {
+        "mesAno": "9/2019",
+        "mediaNacional": 30.8726
+      },
+      {
+        "mesAno": "8/2019",
+        "mediaNacional": 30.8232
+      },
+      {
+        "mesAno": "7/2019",
+        "mediaNacional": 31.0419
+      },
+      {
+        "mesAno": "6/2019",
+        "mediaNacional": 30.4284
+      },
+      {
+        "mesAno": "5/2019",
+        "mediaNacional": 29.4244
+      },
+      {
+        "mesAno": "4/2019",
+        "mediaNacional": 31.1385
+      },
+      {
+        "mesAno": "3/2019",
+        "mediaNacional": 32.1206
+      },
+      {
+        "mesAno": "2/2019",
+        "mediaNacional": 31.5911
+      },
+      {
+        "mesAno": "1/2019",
+        "mediaNacional": 31.1057
+      },
+      {
+        "mesAno": "12/2018",
+        "mediaNacional": 31.0653
+      },
+      {
+        "mesAno": "11/2018",
+        "mediaNacional": 31.0638
+      },
+      {
+        "mesAno": "10/2018",
+        "mediaNacional": 32.9447
+      },
+      {
+        "mesAno": "9/2018",
+        "mediaNacional": 34.7195
+      },
+      {
+        "mesAno": "8/2018",
+        "mediaNacional": 33.1906
+      },
+      {
+        "mesAno": "7/2018",
+        "mediaNacional": 31.5696
+      },
+      {
+        "mesAno": "6/2018",
+        "mediaNacional": 33.3973
+      },
+      {
+        "mesAno": "5/2018",
+        "mediaNacional": 33.0716
+      },
+      {
+        "mesAno": "4/2018",
+        "mediaNacional": 32.267
+      },
+      {
+        "mesAno": "3/2018",
+        "mediaNacional": 29.2892
+      },
+      {
+        "mesAno": "2/2018",
+        "mediaNacional": 25.9276
+      },
+      {
+        "mesAno": "1/2018",
+        "mediaNacional": 25.6172
+      },
+      {
+        "mesAno": "12/2017",
+        "mediaNacional": 25.2463
+      },
+      {
+        "mesAno": "11/2017",
+        "mediaNacional": 24.7434
+      },
+      {
+        "mesAno": "10/2017",
+        "mediaNacional": 23.6578
+      },
+      {
+        "mesAno": "9/2017",
+        "mediaNacional": 21.7791
+      },
+      {
+        "mesAno": "8/2017",
+        "mediaNacional": 20.397
+      },
+      {
+        "mesAno": "7/2017",
+        "mediaNacional": 20.6935
+      },
+      {
+        "mesAno": "6/2017",
+        "mediaNacional": 21.3798
+      },
+      {
+        "mesAno": "5/2017",
+        "mediaNacional": 22.1764
+      },
+      {
+        "mesAno": "4/2017",
+        "mediaNacional": 23.1465
+      },
+      {
+        "mesAno": "3/2017",
+        "mediaNacional": 26.2242
+      },
+      {
+        "mesAno": "2/2017",
+        "mediaNacional": 28.6252
+      },
+      {
+        "mesAno": "1/2017",
+        "mediaNacional": 31.2942
+      },
+      {
+        "mesAno": "12/2016",
+        "mediaNacional": 33.6929
+      },
+      {
+        "mesAno": "11/2016",
+        "mediaNacional": 36.5976
+      },
+      {
+        "mesAno": "10/2016",
+        "mediaNacional": 38.6384
+      },
+      {
+        "mesAno": "9/2016",
+        "mediaNacional": 39.5152
+      },
+      {
+        "mesAno": "8/2016",
+        "mediaNacional": 41.4889
+      },
+      {
+        "mesAno": "7/2016",
+        "mediaNacional": 40.8321
+      },
+      {
+        "mesAno": "6/2016",
+        "mediaNacional": 44.4383
+      },
+      {
+        "mesAno": "5/2016",
+        "mediaNacional": 43.5813
+      },
+      {
+        "mesAno": "4/2016",
+        "mediaNacional": 39.6178
+      },
+      {
+        "mesAno": "3/2016",
+        "mediaNacional": 36.4641
+      },
+      {
+        "mesAno": "2/2016",
+        "mediaNacional": 34.1623
+      },
+      {
+        "mesAno": "1/2016",
+        "mediaNacional": 30.049
+      },
+      {
+        "mesAno": "12/2015",
+        "mediaNacional": 27.7621
+      },
+      {
+        "mesAno": "11/2015",
+        "mediaNacional": 26.9017
+      },
+      {
+        "mesAno": "10/2015",
+        "mediaNacional": 26.1239
+      },
+      {
+        "mesAno": "9/2015",
+        "mediaNacional": 23.8048
+      },
+      {
+        "mesAno": "8/2015",
+        "mediaNacional": 22.0039
+      },
+      {
+        "mesAno": "7/2015",
+        "mediaNacional": 21.2886
+      },
+      {
+        "mesAno": "6/2015",
+        "mediaNacional": 20.9259
+      },
+      {
+        "mesAno": "5/2015",
+        "mediaNacional": 21.5858
+      },
+      {
+        "mesAno": "4/2015",
+        "mediaNacional": 22.9217
+      },
+      {
+        "mesAno": "3/2015",
+        "mediaNacional": 22.951
+      },
+      {
+        "mesAno": "2/2015",
+        "mediaNacional": 22.4603
+      },
+      {
+        "mesAno": "1/2015",
+        "mediaNacional": 22.8404
+      },
+      {
+        "mesAno": "12/2014",
+        "mediaNacional": 22.9878
+      },
+      {
+        "mesAno": "11/2014",
+        "mediaNacional": 21.6414
+      },
+      {
+        "mesAno": "10/2014",
+        "mediaNacional": 19.7533
+      },
+      {
+        "mesAno": "9/2014",
+        "mediaNacional": 19.6012
+      },
+      {
+        "mesAno": "8/2014",
+        "mediaNacional": 19.8611
+      },
+      {
+        "mesAno": "7/2014",
+        "mediaNacional": 20.4697
+      },
+      {
+        "mesAno": "6/2014",
+        "mediaNacional": 22.2794
+      },
+      {
+        "mesAno": "5/2014",
+        "mediaNacional": 23.8492
+      },
+      {
+        "mesAno": "4/2014",
+        "mediaNacional": 24.6627
+      },
+      {
+        "mesAno": "3/2014",
+        "mediaNacional": 23.7986
+      },
+      {
+        "mesAno": "2/2014",
+        "mediaNacional": 22.2677
+      },
+      {
+        "mesAno": "1/2014",
+        "mediaNacional": 21.6524
+      },
+      {
+        "mesAno": "12/2013",
+        "mediaNacional": 21.1893
+      },
+      {
+        "mesAno": "11/2013",
+        "mediaNacional": 20.7766
+      },
+      {
+        "mesAno": "10/2013",
+        "mediaNacional": 20.5075
+      },
+      {
+        "mesAno": "9/2013",
+        "mediaNacional": 20.6419
+      },
+      {
+        "mesAno": "8/2013",
+        "mediaNacional": 20.4672
+      },
+      {
+        "mesAno": "7/2013",
+        "mediaNacional": 21.51
+      },
+      {
+        "mesAno": "6/2013",
+        "mediaNacional": 22.0195
+      },
+      {
+        "mesAno": "5/2013",
+        "mediaNacional": 22.6409
+      },
+      {
+        "mesAno": "4/2013",
+        "mediaNacional": 24.1499
+      },
+      {
+        "mesAno": "3/2013",
+        "mediaNacional": 26.541
+      },
+      {
+        "mesAno": "2/2013",
+        "mediaNacional": 27.6627
+      },
+      {
+        "mesAno": "1/2013",
+        "mediaNacional": 27.7658
+      },
+      {
+        "mesAno": "12/2012",
+        "mediaNacional": 28.4496
+      },
+      {
+        "mesAno": "11/2012",
+        "mediaNacional": 27.3305
+      },
+      {
+        "mesAno": "10/2012",
+        "mediaNacional": 26.4389
+      },
+      {
+        "mesAno": "9/2012",
+        "mediaNacional": 26.7028
+      },
+      {
+        "mesAno": "8/2012",
+        "mediaNacional": 26.1481
+      },
+      {
+        "mesAno": "7/2012",
+        "mediaNacional": 22.9115
+      },
+      {
+        "mesAno": "6/2012",
+        "mediaNacional": 21.8398
+      },
+      {
+        "mesAno": "5/2012",
+        "mediaNacional": 22.4579
+      },
+      {
+        "mesAno": "4/2012",
+        "mediaNacional": 24.0375
+      },
+      {
+        "mesAno": "3/2012",
+        "mediaNacional": 25.145
+      },
+      {
+        "mesAno": "2/2012",
+        "mediaNacional": 25.4061
+      },
+      {
+        "mesAno": "1/2012",
+        "mediaNacional": 24.8073
+      },
+      {
+        "mesAno": "12/2011",
+        "mediaNacional": 23.7472
+      },
+      {
+        "mesAno": "11/2011",
+        "mediaNacional": 24.6414
+      },
+      {
+        "mesAno": "10/2011",
+        "mediaNacional": 24.8011
+      },
+      {
+        "mesAno": "9/2011",
+        "mediaNacional": 25.0376
+      },
+      {
+        "mesAno": "8/2011",
+        "mediaNacional": 24.8686
+      },
+      {
+        "mesAno": "7/2011",
+        "mediaNacional": 25.0698
+      },
+      {
+        "mesAno": "6/2011",
+        "mediaNacional": 25.2141
+      },
+      {
+        "mesAno": "5/2011",
+        "mediaNacional": 25.1634
+      },
+      {
+        "mesAno": "4/2011",
+        "mediaNacional": 25.4443
+      },
+      {
+        "mesAno": "3/2011",
+        "mediaNacional": 25.0164
+      },
+      {
+        "mesAno": "2/2011",
+        "mediaNacional": 24.7996
+      },
+      {
+        "mesAno": "1/2011",
+        "mediaNacional": 23.3456
+      },
+      {
+        "mesAno": "12/2010",
+        "mediaNacional": 22.6773
+      },
+      {
+        "mesAno": "11/2010",
+        "mediaNacional": 22.1113
+      },
+      {
+        "mesAno": "10/2010",
+        "mediaNacional": 20.0707
+      },
+      {
+        "mesAno": "9/2010",
+        "mediaNacional": 18.3242
+      },
+      {
+        "mesAno": "8/2010",
+        "mediaNacional": 16.2678
+      },
+      {
+        "mesAno": "7/2010",
+        "mediaNacional": 15.3518
+      },
+      {
+        "mesAno": "6/2010",
+        "mediaNacional": 15.6352
+      },
+      {
+        "mesAno": "5/2010",
+        "mediaNacional": 15.2317
+      },
+      {
+        "mesAno": "4/2010",
+        "mediaNacional": 15.2077
+      },
+      {
+        "mesAno": "3/2010",
+        "mediaNacional": 15.3541
+      },
+      {
+        "mesAno": "2/2010",
+        "mediaNacional": 15.666
+      },
+      {
+        "mesAno": "1/2010",
+        "mediaNacional": 16.549
+      },
+      {
+        "mesAno": "12/2009",
+        "mediaNacional": 16.7627
+      },
+      {
+        "mesAno": "11/2009",
+        "mediaNacional": 17.1188
+      },
+      {
+        "mesAno": "10/2009",
+        "mediaNacional": 16.5923
+      },
+      {
+        "mesAno": "9/2009",
+        "mediaNacional": 16.8317
+      },
+      {
+        "mesAno": "8/2009",
+        "mediaNacional": 17.5795
+      },
+      {
+        "mesAno": "7/2009",
+        "mediaNacional": 18.3305
+      },
+      {
+        "mesAno": "6/2009",
+        "mediaNacional": 19.4185
+      },
+      {
+        "mesAno": "5/2009",
+        "mediaNacional": 19.1964
+      },
+      {
+        "mesAno": "4/2009",
+        "mediaNacional": 18.4493
+      },
+      {
+        "mesAno": "3/2009",
+        "mediaNacional": 18.9405
+      },
+      {
+        "mesAno": "2/2009",
+        "mediaNacional": 20.5914
+      },
+      {
+        "mesAno": "1/2009",
+        "mediaNacional": 20.34
+      },
+      {
+        "mesAno": "12/2008",
+        "mediaNacional": 18.2336
+      },
+      {
+        "mesAno": "11/2008",
+        "mediaNacional": 18.309
+      },
+      {
+        "mesAno": "10/2008",
+        "mediaNacional": 19.6559
+      },
+      {
+        "mesAno": "9/2008",
+        "mediaNacional": 20.784
+      },
+      {
+        "mesAno": "8/2008",
+        "mediaNacional": 21.897
+      },
+      {
+        "mesAno": "7/2008",
+        "mediaNacional": 24.1958
+      },
+      {
+        "mesAno": "6/2008",
+        "mediaNacional": 23.2034
+      },
+      {
+        "mesAno": "5/2008",
+        "mediaNacional": 23.6389
+      },
+      {
+        "mesAno": "4/2008",
+        "mediaNacional": 23.6833
+      },
+      {
+        "mesAno": "3/2008",
+        "mediaNacional": 23.9886
+      },
+      {
+        "mesAno": "2/2008",
+        "mediaNacional": 24.0938
+      },
+      {
+        "mesAno": "1/2008",
+        "mediaNacional": 25.3667
+      },
+      {
+        "mesAno": "12/2007",
+        "mediaNacional": 26.2748
+      },
+      {
+        "mesAno": "11/2007",
+        "mediaNacional": 23.4263
+      },
+      {
+        "mesAno": "10/2007",
+        "mediaNacional": 21.5522
+      },
+      {
+        "mesAno": "9/2007",
+        "mediaNacional": 20.7785
+      },
+      {
+        "mesAno": "8/2007",
+        "mediaNacional": 17.8768
+      },
+      {
+        "mesAno": "7/2007",
+        "mediaNacional": 16.5621
+      },
+      {
+        "mesAno": "6/2007",
+        "mediaNacional": 16.4762
+      },
+      {
+        "mesAno": "5/2007",
+        "mediaNacional": 16.5113
+      },
+      {
+        "mesAno": "4/2007",
+        "mediaNacional": 16.9172
+      },
+      {
+        "mesAno": "3/2007",
+        "mediaNacional": 17.8629
+      },
+      {
+        "mesAno": "2/2007",
+        "mediaNacional": 18.3271
+      },
+      {
+        "mesAno": "1/2007",
+        "mediaNacional": 18.7148
+      },
+      {
+        "mesAno": "12/2006",
+        "mediaNacional": 18.4387
+      },
+      {
+        "mesAno": "11/2006",
+        "mediaNacional": 17.2678
+      },
+      {
+        "mesAno": "10/2006",
+        "mediaNacional": 15.6378
+      },
+      {
+        "mesAno": "9/2006",
+        "mediaNacional": 14.2029
+      },
+      {
+        "mesAno": "8/2006",
+        "mediaNacional": 13.9055
+      },
+      {
+        "mesAno": "7/2006",
+        "mediaNacional": 14.4429
+      },
+      {
+        "mesAno": "6/2006",
+        "mediaNacional": 14.5282
+      },
+      {
+        "mesAno": "5/2006",
+        "mediaNacional": 13.4234
+      },
+      {
+        "mesAno": "4/2006",
+        "mediaNacional": 12.5684
+      },
+      {
+        "mesAno": "3/2006",
+        "mediaNacional": 13.5052
+      },
+      {
+        "mesAno": "2/2006",
+        "mediaNacional": 14.7255
+      },
+      {
+        "mesAno": "1/2006",
+        "mediaNacional": 14.6381
+      },
+      {
+        "mesAno": "12/2005",
+        "mediaNacional": 14.0307
+      },
+      {
+        "mesAno": "11/2005",
+        "mediaNacional": 14.5057
+      },
+      {
+        "mesAno": "10/2005",
+        "mediaNacional": 15.6303
+      },
+      {
+        "mesAno": "9/2005",
+        "mediaNacional": 16.5083
+      },
+      {
+        "mesAno": "8/2005",
+        "mediaNacional": 16.9286
+      },
+      {
+        "mesAno": "7/2005",
+        "mediaNacional": 17.1637
+      },
+      {
+        "mesAno": "6/2005",
+        "mediaNacional": 17.2608
+      },
+      {
+        "mesAno": "5/2005",
+        "mediaNacional": 17.6276
+      },
+      {
+        "mesAno": "4/2005",
+        "mediaNacional": 17.9389
+      },
+      {
+        "mesAno": "3/2005",
+        "mediaNacional": 17.1538
+      },
+      {
+        "mesAno": "2/2005",
+        "mediaNacional": 15.9089
+      },
+      {
+        "mesAno": "1/2005",
+        "mediaNacional": 15.6819
+      },
+      {
+        "mesAno": "11/2004",
+        "mediaNacional": 15.7828
+      },
+      {
+        "mesAno": "10/2004",
+        "mediaNacional": 16.4078
+      },
+      {
+        "mesAno": "9/2004",
+        "mediaNacional": 16.9779
+      },
+      {
+        "mesAno": "8/2004",
+        "mediaNacional": 16.9135
+      },
+      {
+        "mesAno": "7/2004",
+        "mediaNacional": 17.7122
+      },
+      {
+        "mesAno": "6/2004",
+        "mediaNacional": 19.0091
+      },
+      {
+        "mesAno": "5/2004",
+        "mediaNacional": 20.2459
+      },
+      {
+        "mesAno": "4/2004",
+        "mediaNacional": 19.4868
+      },
+      {
+        "mesAno": "3/2004",
+        "mediaNacional": 17.5722
       }
     ]
   },
@@ -16,12 +1020,1016 @@
     "unidade": "Saca 60Kg",
     "dados": [
       {
-        "mesAno": "Mar/2025",
-        "mediaNacional": 156.90
+        "mesAno": "4/2025",
+        "mediaNacional": 119.8426
       },
       {
-        "mesAno": "Abr/2025",
-        "mediaNacional": 158.40
+        "mesAno": "3/2025",
+        "mediaNacional": 119.8211
+      },
+      {
+        "mesAno": "2/2025",
+        "mediaNacional": 119.1668
+      },
+      {
+        "mesAno": "1/2025",
+        "mediaNacional": 123.047
+      },
+      {
+        "mesAno": "12/2024",
+        "mediaNacional": 128.5831
+      },
+      {
+        "mesAno": "11/2024",
+        "mediaNacional": 130.3556
+      },
+      {
+        "mesAno": "10/2024",
+        "mediaNacional": 127.2632
+      },
+      {
+        "mesAno": "9/2024",
+        "mediaNacional": 123.6904
+      },
+      {
+        "mesAno": "8/2024",
+        "mediaNacional": 119.2007
+      },
+      {
+        "mesAno": "7/2024",
+        "mediaNacional": 121.7345
+      },
+      {
+        "mesAno": "6/2024",
+        "mediaNacional": 121.3981
+      },
+      {
+        "mesAno": "5/2024",
+        "mediaNacional": 118.2335
+      },
+      {
+        "mesAno": "4/2024",
+        "mediaNacional": 113.1347
+      },
+      {
+        "mesAno": "3/2024",
+        "mediaNacional": 106.5652
+      },
+      {
+        "mesAno": "2/2024",
+        "mediaNacional": 105.3475
+      },
+      {
+        "mesAno": "1/2024",
+        "mediaNacional": 116.9254
+      },
+      {
+        "mesAno": "12/2023",
+        "mediaNacional": 130.4195
+      },
+      {
+        "mesAno": "11/2023",
+        "mediaNacional": 130.5401
+      },
+      {
+        "mesAno": "10/2023",
+        "mediaNacional": 128.0043
+      },
+      {
+        "mesAno": "9/2023",
+        "mediaNacional": 130.9774
+      },
+      {
+        "mesAno": "8/2023",
+        "mediaNacional": 130.7555
+      },
+      {
+        "mesAno": "7/2023",
+        "mediaNacional": 126.516
+      },
+      {
+        "mesAno": "6/2023",
+        "mediaNacional": 119.3202
+      },
+      {
+        "mesAno": "5/2023",
+        "mediaNacional": 122.0503
+      },
+      {
+        "mesAno": "4/2023",
+        "mediaNacional": 135.929
+      },
+      {
+        "mesAno": "3/2023",
+        "mediaNacional": 151.7918
+      },
+      {
+        "mesAno": "2/2023",
+        "mediaNacional": 159.6227
+      },
+      {
+        "mesAno": "1/2023",
+        "mediaNacional": 164.8989
+      },
+      {
+        "mesAno": "12/2022",
+        "mediaNacional": 167.8738
+      },
+      {
+        "mesAno": "11/2022",
+        "mediaNacional": 170.1859
+      },
+      {
+        "mesAno": "10/2022",
+        "mediaNacional": 167.2148
+      },
+      {
+        "mesAno": "9/2022",
+        "mediaNacional": 169.2618
+      },
+      {
+        "mesAno": "8/2022",
+        "mediaNacional": 170.1701
+      },
+      {
+        "mesAno": "7/2022",
+        "mediaNacional": 173.1207
+      },
+      {
+        "mesAno": "6/2022",
+        "mediaNacional": 177.164
+      },
+      {
+        "mesAno": "5/2022",
+        "mediaNacional": 179.881
+      },
+      {
+        "mesAno": "4/2022",
+        "mediaNacional": 175.3033
+      },
+      {
+        "mesAno": "3/2022",
+        "mediaNacional": 191.9989
+      },
+      {
+        "mesAno": "2/2022",
+        "mediaNacional": 183.7549
+      },
+      {
+        "mesAno": "1/2022",
+        "mediaNacional": 168.3471
+      },
+      {
+        "mesAno": "12/2021",
+        "mediaNacional": 158.5404
+      },
+      {
+        "mesAno": "11/2021",
+        "mediaNacional": 156.2219
+      },
+      {
+        "mesAno": "10/2021",
+        "mediaNacional": 160.0081
+      },
+      {
+        "mesAno": "9/2021",
+        "mediaNacional": 159.3011
+      },
+      {
+        "mesAno": "8/2021",
+        "mediaNacional": 158.4395
+      },
+      {
+        "mesAno": "7/2021",
+        "mediaNacional": 151.7851
+      },
+      {
+        "mesAno": "6/2021",
+        "mediaNacional": 152.1141
+      },
+      {
+        "mesAno": "5/2021",
+        "mediaNacional": 164.071
+      },
+      {
+        "mesAno": "4/2021",
+        "mediaNacional": 163.2929
+      },
+      {
+        "mesAno": "3/2021",
+        "mediaNacional": 158.7933
+      },
+      {
+        "mesAno": "2/2021",
+        "mediaNacional": 154.5318
+      },
+      {
+        "mesAno": "1/2021",
+        "mediaNacional": 148.7721
+      },
+      {
+        "mesAno": "12/2020",
+        "mediaNacional": 140.9301
+      },
+      {
+        "mesAno": "11/2020",
+        "mediaNacional": 157.3982
+      },
+      {
+        "mesAno": "10/2020",
+        "mediaNacional": 147.4121
+      },
+      {
+        "mesAno": "9/2020",
+        "mediaNacional": 128.3004
+      },
+      {
+        "mesAno": "8/2020",
+        "mediaNacional": 113.3375
+      },
+      {
+        "mesAno": "7/2020",
+        "mediaNacional": 102.9306
+      },
+      {
+        "mesAno": "6/2020",
+        "mediaNacional": 95.8284
+      },
+      {
+        "mesAno": "5/2020",
+        "mediaNacional": 94.7799
+      },
+      {
+        "mesAno": "4/2020",
+        "mediaNacional": 87.712
+      },
+      {
+        "mesAno": "3/2020",
+        "mediaNacional": 81.8793
+      },
+      {
+        "mesAno": "2/2020",
+        "mediaNacional": 76.6416
+      },
+      {
+        "mesAno": "1/2020",
+        "mediaNacional": 77.4824
+      },
+      {
+        "mesAno": "12/2019",
+        "mediaNacional": 78.6838
+      },
+      {
+        "mesAno": "11/2019",
+        "mediaNacional": 78.0108
+      },
+      {
+        "mesAno": "10/2019",
+        "mediaNacional": 76.9515
+      },
+      {
+        "mesAno": "9/2019",
+        "mediaNacional": 75.7721
+      },
+      {
+        "mesAno": "8/2019",
+        "mediaNacional": 71.631
+      },
+      {
+        "mesAno": "7/2019",
+        "mediaNacional": 68.4306
+      },
+      {
+        "mesAno": "6/2019",
+        "mediaNacional": 70.1475
+      },
+      {
+        "mesAno": "5/2019",
+        "mediaNacional": 66.1616
+      },
+      {
+        "mesAno": "4/2019",
+        "mediaNacional": 67.6829
+      },
+      {
+        "mesAno": "3/2019",
+        "mediaNacional": 69.1283
+      },
+      {
+        "mesAno": "2/2019",
+        "mediaNacional": 67.5871
+      },
+      {
+        "mesAno": "1/2019",
+        "mediaNacional": 69.278
+      },
+      {
+        "mesAno": "12/2018",
+        "mediaNacional": 72.1574
+      },
+      {
+        "mesAno": "11/2018",
+        "mediaNacional": 74.0273
+      },
+      {
+        "mesAno": "10/2018",
+        "mediaNacional": 77.8646
+      },
+      {
+        "mesAno": "9/2018",
+        "mediaNacional": 79.5278
+      },
+      {
+        "mesAno": "8/2018",
+        "mediaNacional": 75.8643
+      },
+      {
+        "mesAno": "7/2018",
+        "mediaNacional": 73.8362
+      },
+      {
+        "mesAno": "6/2018",
+        "mediaNacional": 72.0655
+      },
+      {
+        "mesAno": "5/2018",
+        "mediaNacional": 74.3269
+      },
+      {
+        "mesAno": "4/2018",
+        "mediaNacional": 72.2781
+      },
+      {
+        "mesAno": "3/2018",
+        "mediaNacional": 67.2818
+      },
+      {
+        "mesAno": "2/2018",
+        "mediaNacional": 62.4139
+      },
+      {
+        "mesAno": "1/2018",
+        "mediaNacional": 61.9512
+      },
+      {
+        "mesAno": "12/2017",
+        "mediaNacional": 63.3514
+      },
+      {
+        "mesAno": "11/2017",
+        "mediaNacional": 62.4569
+      },
+      {
+        "mesAno": "10/2017",
+        "mediaNacional": 60.4003
+      },
+      {
+        "mesAno": "9/2017",
+        "mediaNacional": 58.9046
+      },
+      {
+        "mesAno": "8/2017",
+        "mediaNacional": 58.5431
+      },
+      {
+        "mesAno": "7/2017",
+        "mediaNacional": 60.3109
+      },
+      {
+        "mesAno": "6/2017",
+        "mediaNacional": 58.3028
+      },
+      {
+        "mesAno": "5/2017",
+        "mediaNacional": 57.9241
+      },
+      {
+        "mesAno": "4/2017",
+        "mediaNacional": 55.7525
+      },
+      {
+        "mesAno": "3/2017",
+        "mediaNacional": 61.4242
+      },
+      {
+        "mesAno": "2/2017",
+        "mediaNacional": 64.2665
+      },
+      {
+        "mesAno": "1/2017",
+        "mediaNacional": 67.1815
+      },
+      {
+        "mesAno": "12/2016",
+        "mediaNacional": 69.941
+      },
+      {
+        "mesAno": "11/2016",
+        "mediaNacional": 69.111
+      },
+      {
+        "mesAno": "10/2016",
+        "mediaNacional": 69.5339
+      },
+      {
+        "mesAno": "9/2016",
+        "mediaNacional": 70.5603
+      },
+      {
+        "mesAno": "8/2016",
+        "mediaNacional": 70.9738
+      },
+      {
+        "mesAno": "7/2016",
+        "mediaNacional": 76.1042
+      },
+      {
+        "mesAno": "6/2016",
+        "mediaNacional": 80.6961
+      },
+      {
+        "mesAno": "5/2016",
+        "mediaNacional": 72.3155
+      },
+      {
+        "mesAno": "4/2016",
+        "mediaNacional": 65.0611
+      },
+      {
+        "mesAno": "3/2016",
+        "mediaNacional": 65.5215
+      },
+      {
+        "mesAno": "2/2016",
+        "mediaNacional": 70.1485
+      },
+      {
+        "mesAno": "1/2016",
+        "mediaNacional": 71.6657
+      },
+      {
+        "mesAno": "12/2015",
+        "mediaNacional": 70.2052
+      },
+      {
+        "mesAno": "11/2015",
+        "mediaNacional": 71.2137
+      },
+      {
+        "mesAno": "10/2015",
+        "mediaNacional": 72.0625
+      },
+      {
+        "mesAno": "9/2015",
+        "mediaNacional": 69.0592
+      },
+      {
+        "mesAno": "8/2015",
+        "mediaNacional": 64.8137
+      },
+      {
+        "mesAno": "7/2015",
+        "mediaNacional": 61.5629
+      },
+      {
+        "mesAno": "6/2015",
+        "mediaNacional": 57.9628
+      },
+      {
+        "mesAno": "5/2015",
+        "mediaNacional": 57.2642
+      },
+      {
+        "mesAno": "4/2015",
+        "mediaNacional": 59.1233
+      },
+      {
+        "mesAno": "3/2015",
+        "mediaNacional": 60.0172
+      },
+      {
+        "mesAno": "2/2015",
+        "mediaNacional": 55.6737
+      },
+      {
+        "mesAno": "1/2015",
+        "mediaNacional": 56.6907
+      },
+      {
+        "mesAno": "12/2014",
+        "mediaNacional": 58.5242
+      },
+      {
+        "mesAno": "11/2014",
+        "mediaNacional": 57.4749
+      },
+      {
+        "mesAno": "10/2014",
+        "mediaNacional": 54.2005
+      },
+      {
+        "mesAno": "9/2014",
+        "mediaNacional": 54.1506
+      },
+      {
+        "mesAno": "8/2014",
+        "mediaNacional": 57.5588
+      },
+      {
+        "mesAno": "7/2014",
+        "mediaNacional": 57.7991
+      },
+      {
+        "mesAno": "6/2014",
+        "mediaNacional": 61.403
+      },
+      {
+        "mesAno": "5/2014",
+        "mediaNacional": 61.4476
+      },
+      {
+        "mesAno": "4/2014",
+        "mediaNacional": 61.4241
+      },
+      {
+        "mesAno": "3/2014",
+        "mediaNacional": 62.8381
+      },
+      {
+        "mesAno": "2/2014",
+        "mediaNacional": 61.3194
+      },
+      {
+        "mesAno": "1/2014",
+        "mediaNacional": 61.8907
+      },
+      {
+        "mesAno": "12/2013",
+        "mediaNacional": 65.1907
+      },
+      {
+        "mesAno": "11/2013",
+        "mediaNacional": 64.8517
+      },
+      {
+        "mesAno": "10/2013",
+        "mediaNacional": 63.4433
+      },
+      {
+        "mesAno": "9/2013",
+        "mediaNacional": 63.1708
+      },
+      {
+        "mesAno": "8/2013",
+        "mediaNacional": 59.0522
+      },
+      {
+        "mesAno": "7/2013",
+        "mediaNacional": 60.0837
+      },
+      {
+        "mesAno": "6/2013",
+        "mediaNacional": 58.2958
+      },
+      {
+        "mesAno": "5/2013",
+        "mediaNacional": 52.7482
+      },
+      {
+        "mesAno": "4/2013",
+        "mediaNacional": 51.2587
+      },
+      {
+        "mesAno": "3/2013",
+        "mediaNacional": 54.2453
+      },
+      {
+        "mesAno": "2/2013",
+        "mediaNacional": 56.732
+      },
+      {
+        "mesAno": "1/2013",
+        "mediaNacional": 60.1132
+      },
+      {
+        "mesAno": "12/2012",
+        "mediaNacional": 66.798
+      },
+      {
+        "mesAno": "11/2012",
+        "mediaNacional": 66.9942
+      },
+      {
+        "mesAno": "10/2012",
+        "mediaNacional": 69.3583
+      },
+      {
+        "mesAno": "9/2012",
+        "mediaNacional": 75.0114
+      },
+      {
+        "mesAno": "8/2012",
+        "mediaNacional": 71.848
+      },
+      {
+        "mesAno": "7/2012",
+        "mediaNacional": 65.1812
+      },
+      {
+        "mesAno": "6/2012",
+        "mediaNacional": 56.6668
+      },
+      {
+        "mesAno": "5/2012",
+        "mediaNacional": 53.977
+      },
+      {
+        "mesAno": "4/2012",
+        "mediaNacional": 50.9634
+      },
+      {
+        "mesAno": "3/2012",
+        "mediaNacional": 45.8106
+      },
+      {
+        "mesAno": "2/2012",
+        "mediaNacional": 42.294
+      },
+      {
+        "mesAno": "1/2012",
+        "mediaNacional": 41.972
+      },
+      {
+        "mesAno": "12/2011",
+        "mediaNacional": 40.806
+      },
+      {
+        "mesAno": "11/2011",
+        "mediaNacional": 41.3245
+      },
+      {
+        "mesAno": "10/2011",
+        "mediaNacional": 42.2553
+      },
+      {
+        "mesAno": "9/2011",
+        "mediaNacional": 43.7439
+      },
+      {
+        "mesAno": "8/2011",
+        "mediaNacional": 41.3443
+      },
+      {
+        "mesAno": "7/2011",
+        "mediaNacional": 40.5608
+      },
+      {
+        "mesAno": "6/2011",
+        "mediaNacional": 40.6801
+      },
+      {
+        "mesAno": "5/2011",
+        "mediaNacional": 40.2739
+      },
+      {
+        "mesAno": "4/2011",
+        "mediaNacional": 41.5964
+      },
+      {
+        "mesAno": "3/2011",
+        "mediaNacional": 43.0525
+      },
+      {
+        "mesAno": "2/2011",
+        "mediaNacional": 44.8849
+      },
+      {
+        "mesAno": "1/2011",
+        "mediaNacional": 44.6908
+      },
+      {
+        "mesAno": "12/2010",
+        "mediaNacional": 44.1623
+      },
+      {
+        "mesAno": "11/2010",
+        "mediaNacional": 42.9463
+      },
+      {
+        "mesAno": "10/2010",
+        "mediaNacional": 39.8339
+      },
+      {
+        "mesAno": "9/2010",
+        "mediaNacional": 38.0546
+      },
+      {
+        "mesAno": "8/2010",
+        "mediaNacional": 36.8517
+      },
+      {
+        "mesAno": "7/2010",
+        "mediaNacional": 34.1392
+      },
+      {
+        "mesAno": "6/2010",
+        "mediaNacional": 32.5076
+      },
+      {
+        "mesAno": "5/2010",
+        "mediaNacional": 31.9699
+      },
+      {
+        "mesAno": "4/2010",
+        "mediaNacional": 31.6267
+      },
+      {
+        "mesAno": "3/2010",
+        "mediaNacional": 32.0391
+      },
+      {
+        "mesAno": "2/2010",
+        "mediaNacional": 34.6757
+      },
+      {
+        "mesAno": "1/2010",
+        "mediaNacional": 38.4233
+      },
+      {
+        "mesAno": "12/2009",
+        "mediaNacional": 40.4875
+      },
+      {
+        "mesAno": "11/2009",
+        "mediaNacional": 40.9549
+      },
+      {
+        "mesAno": "10/2009",
+        "mediaNacional": 41.1193
+      },
+      {
+        "mesAno": "9/2009",
+        "mediaNacional": 41.8283
+      },
+      {
+        "mesAno": "8/2009",
+        "mediaNacional": 42.9887
+      },
+      {
+        "mesAno": "7/2009",
+        "mediaNacional": 42.8687
+      },
+      {
+        "mesAno": "6/2009",
+        "mediaNacional": 45.2255
+      },
+      {
+        "mesAno": "5/2009",
+        "mediaNacional": 45.4917
+      },
+      {
+        "mesAno": "4/2009",
+        "mediaNacional": 43.6527
+      },
+      {
+        "mesAno": "3/2009",
+        "mediaNacional": 41.2643
+      },
+      {
+        "mesAno": "2/2009",
+        "mediaNacional": 44.2186
+      },
+      {
+        "mesAno": "1/2009",
+        "mediaNacional": 43.3417
+      },
+      {
+        "mesAno": "12/2008",
+        "mediaNacional": 41.0572
+      },
+      {
+        "mesAno": "11/2008",
+        "mediaNacional": 41.3938
+      },
+      {
+        "mesAno": "10/2008",
+        "mediaNacional": 41.2113
+      },
+      {
+        "mesAno": "9/2008",
+        "mediaNacional": 41.8478
+      },
+      {
+        "mesAno": "8/2008",
+        "mediaNacional": 40.7546
+      },
+      {
+        "mesAno": "7/2008",
+        "mediaNacional": 46.7106
+      },
+      {
+        "mesAno": "6/2008",
+        "mediaNacional": 44.3478
+      },
+      {
+        "mesAno": "5/2008",
+        "mediaNacional": 41.345
+      },
+      {
+        "mesAno": "4/2008",
+        "mediaNacional": 41.3616
+      },
+      {
+        "mesAno": "3/2008",
+        "mediaNacional": 43.6954
+      },
+      {
+        "mesAno": "2/2008",
+        "mediaNacional": 43.533
+      },
+      {
+        "mesAno": "1/2008",
+        "mediaNacional": 40.4589
+      },
+      {
+        "mesAno": "12/2007",
+        "mediaNacional": 38.9736
+      },
+      {
+        "mesAno": "11/2007",
+        "mediaNacional": 37.0644
+      },
+      {
+        "mesAno": "10/2007",
+        "mediaNacional": 35.5977
+      },
+      {
+        "mesAno": "9/2007",
+        "mediaNacional": 33.8835
+      },
+      {
+        "mesAno": "8/2007",
+        "mediaNacional": 29.6467
+      },
+      {
+        "mesAno": "7/2007",
+        "mediaNacional": 27.4488
+      },
+      {
+        "mesAno": "6/2007",
+        "mediaNacional": 27.0199
+      },
+      {
+        "mesAno": "5/2007",
+        "mediaNacional": 26.4346
+      },
+      {
+        "mesAno": "4/2007",
+        "mediaNacional": 26.7123
+      },
+      {
+        "mesAno": "3/2007",
+        "mediaNacional": 28.1665
+      },
+      {
+        "mesAno": "2/2007",
+        "mediaNacional": 28.3438
+      },
+      {
+        "mesAno": "1/2007",
+        "mediaNacional": 27.7059
+      },
+      {
+        "mesAno": "12/2006",
+        "mediaNacional": 28.3921
+      },
+      {
+        "mesAno": "11/2006",
+        "mediaNacional": 27.6505
+      },
+      {
+        "mesAno": "10/2006",
+        "mediaNacional": 24.9539
+      },
+      {
+        "mesAno": "9/2006",
+        "mediaNacional": 23.1931
+      },
+      {
+        "mesAno": "8/2006",
+        "mediaNacional": 23.3694
+      },
+      {
+        "mesAno": "7/2006",
+        "mediaNacional": 23.7472
+      },
+      {
+        "mesAno": "6/2006",
+        "mediaNacional": 23.9619
+      },
+      {
+        "mesAno": "5/2006",
+        "mediaNacional": 22.7371
+      },
+      {
+        "mesAno": "4/2006",
+        "mediaNacional": 22.0104
+      },
+      {
+        "mesAno": "3/2006",
+        "mediaNacional": 22.7376
+      },
+      {
+        "mesAno": "2/2006",
+        "mediaNacional": 24.5111
+      },
+      {
+        "mesAno": "1/2006",
+        "mediaNacional": 25.7087
+      },
+      {
+        "mesAno": "12/2005",
+        "mediaNacional": 25.3932
+      },
+      {
+        "mesAno": "11/2005",
+        "mediaNacional": 24.4693
+      },
+      {
+        "mesAno": "10/2005",
+        "mediaNacional": 25.039
+      },
+      {
+        "mesAno": "9/2005",
+        "mediaNacional": 26.463
+      },
+      {
+        "mesAno": "8/2005",
+        "mediaNacional": 27.878
+      },
+      {
+        "mesAno": "7/2005",
+        "mediaNacional": 28.587
+      },
+      {
+        "mesAno": "6/2005",
+        "mediaNacional": 29.0678
+      },
+      {
+        "mesAno": "5/2005",
+        "mediaNacional": 28.357
+      },
+      {
+        "mesAno": "4/2005",
+        "mediaNacional": 30.2204
+      },
+      {
+        "mesAno": "3/2005",
+        "mediaNacional": 31.118
+      },
+      {
+        "mesAno": "2/2005",
+        "mediaNacional": 27.3999
+      },
+      {
+        "mesAno": "1/2005",
+        "mediaNacional": 29.8087
+      },
+      {
+        "mesAno": "11/2004",
+        "mediaNacional": 31.9385
+      },
+      {
+        "mesAno": "10/2004",
+        "mediaNacional": 32.2154
+      },
+      {
+        "mesAno": "9/2004",
+        "mediaNacional": 35.5496
+      },
+      {
+        "mesAno": "8/2004",
+        "mediaNacional": 34.9411
+      },
+      {
+        "mesAno": "7/2004",
+        "mediaNacional": 37.5474
+      },
+      {
+        "mesAno": "6/2004",
+        "mediaNacional": 40.7781
+      },
+      {
+        "mesAno": "5/2004",
+        "mediaNacional": 47.493
+      },
+      {
+        "mesAno": "4/2004",
+        "mediaNacional": 48.7279
+      },
+      {
+        "mesAno": "3/2004",
+        "mediaNacional": 50.0455
       }
     ]
   }
