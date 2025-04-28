@@ -1,0 +1,28 @@
+{
+  "Milho Seco": {
+    "unidade": "Saca 60Kg",
+    "dados": [
+      {
+        "mesAno": "Mar/2025",
+        "mediaNacional": 89.45
+      },
+      {
+        "mesAno": "Abr/2025",
+        "mediaNacional": 87.30
+      }
+    ]
+  },
+  "Soja (Grão)": {
+    "unidade": "Saca 60Kg",
+    "dados": [
+      {
+        "mesAno": "Mar/2025",
+        "mediaNacional": 156.90
+      },
+      {
+        "mesAno": "Abr/2025",
+        "mediaNacional": 158.40
+      }
+    ]
+  }
+}
