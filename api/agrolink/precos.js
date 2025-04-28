@@ -56,9 +56,9 @@ export default async function handler(req, res) {
 
     try {
         await crawler.run(produtos.map(p => p.url));
-        return res.status(200).json(resultados);
+        res.status(200).json(resultados); // <-- devolve o JSON direto, sem salvar
     } catch (error) {
         console.error(error);
-        return res.status(500).json({ message: 'Erro ao realizar scraping.', error: error.message });
+        res.status(500).json({ message: 'Erro ao realizar scraping.', error: error.message });
     }
 }
