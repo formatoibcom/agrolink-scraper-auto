@@ -22,19 +22,11 @@ export default async function handler(req, res) {
 
     const { produto, inicio, fim } = req.query;
 
-    // Se não enviar nada, lista os produtos disponíveis
-    if (!produto && !inicio && !fim) {
-      return res.status(200).json({
-        produtosDisponiveis: Object.keys(dados)
-      });
-    }
-
-    // Tratamento dos filtros
     const produtosSolicitados = produto ? produto.split(',').map(p => p.trim()) : Object.keys(dados);
     const inicioDate = inicio ? parseDate(inicio) : null;
     const fimDate = fim ? parseDate(fim) : null;
 
-    const resultado = {};
+    const produtosDisponiveis = [];
 
     for (const p of produtosSolicitados) {
       const infoProduto = dados[p];
@@ -47,13 +39,14 @@ export default async function handler(req, res) {
         return true;
       });
 
-      resultado[p] = {
+      produtosDisponiveis.push({
+        nome: p,
         unidade: infoProduto.unidade,
         dados: dadosFiltrados
-      };
+      });
     }
 
-    return res.status(200).json(resultado);
+    return res.status(200).json({ produtosDisponiveis });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: 'Erro ao processar os dados.', error: error.message });
