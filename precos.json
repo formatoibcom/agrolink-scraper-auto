@@ -3,6 +3,10 @@
     "unidade": "Saca 50Kg",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 137.7629
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 140.2753
       },
@@ -883,6 +887,10 @@
   "Arroz (em Casca)": {
     "unidade": "Saca 50Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 89.7
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 95.8409
@@ -1777,6 +1785,10 @@
     "unidade": "Saca 50Kg",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 107.7325
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 86.95
       },
@@ -2589,6 +2601,10 @@
   "Boi Gordo": {
     "unidade": "15Kg (arroba)",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 287.5929
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 293.4448
@@ -3611,6 +3627,10 @@
     "unidade": "Saca 60Kg",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 2279.216
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 2485.7037
       },
@@ -4612,6 +4632,10 @@
     "unidade": "1 Tonelada",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 149.3341
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 142.7312
       },
@@ -5041,6 +5065,10 @@
     "unidade": "1 Litro",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 2.9336
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 3.0014
       },
@@ -5154,6 +5182,10 @@
     "unidade": "1 Litro",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 2.5629
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 2.6852
       },
@@ -5242,6 +5274,10 @@
   "Feijão Carioca": {
     "unidade": "Saca 60Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 223.7585
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 225.8706
@@ -6219,6 +6255,10 @@
   "Frango": {
     "unidade": "1 Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 5.4502
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 5.6101
@@ -7241,6 +7281,10 @@
     "unidade": "1 Litro",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 2.9419
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 2.9094
       },
@@ -7865,6 +7909,10 @@
   "Milho Seco": {
     "unidade": "Saca 60Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 59.5744
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 64.1071
@@ -8887,6 +8935,10 @@
     "unidade": "Caixa 30 Dúzias",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 160.2407
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 178.1937
       },
@@ -9887,6 +9939,10 @@
   "Soja (Grão)": {
     "unidade": "Saca 60Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 117.4872
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 116.765
@@ -10909,6 +10965,10 @@
     "unidade": "Saca 60Kg",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 45.1758
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 49.3533
       },
@@ -11041,6 +11101,10 @@
   "Suíno": {
     "unidade": "1 Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 7.7905
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 8.0403
@@ -11343,6 +11407,10 @@
     "unidade": "1 Kg",
     "dados": [
       {
+        "mesAno": "6/2025",
+        "mediaNacional": 5.2062
+      },
+      {
         "mesAno": "5/2025",
         "mediaNacional": 6.7949
       },
@@ -11519,6 +11587,10 @@
   "Trigo (Grão Nacional)": {
     "unidade": "Saca 60Kg",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 74.1182
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 74.7951
@@ -12436,6 +12508,10 @@
   "Vaca-Gorda": {
     "unidade": "15Kg (arroba)",
     "dados": [
+      {
+        "mesAno": "6/2025",
+        "mediaNacional": 262.8796
+      },
       {
         "mesAno": "5/2025",
         "mediaNacional": 272.4016
